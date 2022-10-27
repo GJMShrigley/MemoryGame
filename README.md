@@ -2,13 +2,13 @@
 
 A JavaScript-based memorisation game. Controllable via physical keyboard or on-screen elements. 
 
-# HOW TO USE:
+## HOW TO USE:
 
 Simply download the zip and open the 'index.html' file in your browser of choice. 
 
 After each successful attempt the difficulty will increase as one additional direction symbol is added (up to a maximum of 20 symbols.)
 
-# HOW IT WORKS:
+## HOW IT WORKS:
 
 This project was designed for the purposes of testing my knowledge of generating random numbers, switch statements and intervals.
 
@@ -20,7 +20,7 @@ A countdown function sets an interval for one (1) second. Each interval will add
 
 Once the countdown has completed the user is able to enter their answer using their keyboard or the onscreen buttons. Two event listeners will respond to the key or button presses by logging the answers in a 'keyLog' array. Once this array reaches the same length as the 'level' variable, it will be converted to a JSON string and compared with the 'answer' array. If the two are identical then the success message is displayed and the 'level' variable increased by 1, making the next attempt more difficult. If the arrays do not match, the failure message is displayed and the 'level' variable is reset to its initial value of 5. In both cases the 'timer' variable is reset. If the maximum level of 20 is completed successfully a complete message is displayed and the 'level' variable reset to 5.
 
-# CREDITS:
+## CREDITS:
 
 Arrow icon courtesy of NoodleBoi (https://www.redbubble.com/es/people/noodleboi)
 

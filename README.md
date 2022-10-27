@@ -24,6 +24,6 @@ Once the countdown has completed the user is able to enter their answer using th
 
 Arrow icon courtesy of NoodleBoi (https://www.redbubble.com/es/people/noodleboi)
 
-# LINKS: 
+## LINKS: 
 
 For a live example please visit my online portfolio (https://gjmshrigley.netlify.app/projects/memory%20game/)
